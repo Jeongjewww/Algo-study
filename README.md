@@ -3,9 +3,11 @@
 <br>
 
 ## 💫 Coding & Compression
-**Using Python 👻**  
+**👻 Using Python 👻**  
 - BaekJoon
 - Programmers
-- CodeForces Contest
+- CodeForces
 - LeetCode
+
+**👻 Using Oracle, MySQL 👻**
 - HackerRank
